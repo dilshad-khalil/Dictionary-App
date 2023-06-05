@@ -1,6 +1,7 @@
 # Dictionary App
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/NETLIFY_SITE_ID_HERE/deploy-status)](https://app.netlify.com/sites/NETLIFY_SITE_ID_HERE)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/NETLIFY_SITE_ID_HERE/deploy-status)](https://app.netlify.com/sites/
+2e116065-dbe4-41a7-ae96-d8becab676eb)
 
 This is a Dictionary web app where users can search for words and get their IPA (International Phonetic Alphabet) pronunciation and example usage. The app also offers a dark and light mode to suit user preferences. It provides a text-to-speech feature that allows users to hear the pronunciation by clicking on any text or the play button.
 
